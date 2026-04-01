@@ -54,7 +54,7 @@
                     <description/>
                     <item_prototypes>
                         <item_prototype>
-                            <name>{#BOND_IF} - $3</name>
+                            <name>{#BOND_IF} - ARP IP target</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -98,7 +98,7 @@
                             </application_prototypes>
                         </item_prototype>
                         <item_prototype>
-                            <name>{#BOND_IF} - $3</name>
+                            <name>{#BOND_IF} - ARP Polling Interval</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>1</multiplier>
@@ -142,7 +142,7 @@
                             </application_prototypes>
                         </item_prototype>
                         <item_prototype>
-                            <name>{#BOND_IF} - $3</name>
+                            <name>{#BOND_IF} - Bonding Mode</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -186,7 +186,7 @@
                             </application_prototypes>
                         </item_prototype>
                         <item_prototype>
-                            <name>{#BOND_IF} - $3</name>
+                            <name>{#BOND_IF} - Currently Active Slave</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -230,7 +230,7 @@
                             </application_prototypes>
                         </item_prototype>
                         <item_prototype>
-                            <name>{#BOND_IF} - $3</name>
+                            <name>{#BOND_IF} - MII Polling Interval</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>1</multiplier>
@@ -274,7 +274,7 @@
                             </application_prototypes>
                         </item_prototype>
                         <item_prototype>
-                            <name>{#BOND_IF} - $3</name>
+                            <name>{#BOND_IF} - MII Status</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -318,7 +318,7 @@
                             </application_prototypes>
                         </item_prototype>
                         <item_prototype>
-                            <name>{#BOND_IF} - $3</name>
+                            <name>{#BOND_IF} - Primary Slave</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -421,7 +421,7 @@
                     <description/>
                     <item_prototypes>
                         <item_prototype>
-                            <name>{#BOND_IF} - {#SLAVE_IF} - $3</name>
+                            <name>{#BOND_IF} - {#SLAVE_IF} - Link Failure Count</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -465,7 +465,7 @@
                             </application_prototypes>
                         </item_prototype>
                         <item_prototype>
-                            <name>{#BOND_IF} - {#SLAVE_IF} - $3</name>
+                            <name>{#BOND_IF} - {#SLAVE_IF} - MII Status</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
@@ -509,7 +509,7 @@
                             </application_prototypes>
                         </item_prototype>
                         <item_prototype>
-                            <name>{#BOND_IF} - {#SLAVE_IF} - $3</name>
+                            <name>{#BOND_IF} - {#SLAVE_IF} - Speed</name>
                             <type>0</type>
                             <snmp_community/>
                             <multiplier>0</multiplier>
